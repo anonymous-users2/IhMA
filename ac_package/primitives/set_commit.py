@@ -1,5 +1,5 @@
 """
-This implementation of Set commitments with additional cross commitment and  aggregation properties .
+This implementation of Set commitments with additional cross commitment and  aggregation properties and Indexed set commitments .
 These commitments can be used to build SPSQE-UC signatures and their application delegatable anonymous credential.
 See  the following for the details:
 - Structure-Preserving Signatures on Equivalence Classes and Constant-Size Anonymous Credentials" by Fuchsbauer1 et al.,
